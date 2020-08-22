@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void) {
+  printf("Hello World\n");
+  printf("Meu nome é Elizabeth\n");
+  printf("All\n might\n");
+  return 0;
+}
